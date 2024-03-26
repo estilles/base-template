@@ -25,7 +25,7 @@
   "prettier.printWidth": 240,
   "prettier.semi": false,
   "prettier.singleQuote": true,
-  "prettier.trailingComma": "all"
+  "prettier.trailingComma": "all",
   "prettier.tabWidth": 2,
   "prettier.bracketSpacing": true,
   "prettier.endOfLine": "lf"
